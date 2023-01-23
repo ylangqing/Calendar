@@ -11,9 +11,9 @@ Calendar
 复制以下URL，然后添加到相应的日历APP中。
 CQF英文课程日历：
 ```
-https://raw.githubusercontent.com/ylangqing/ics/main/CQFCalendar.ics
+https://raw.githubusercontent.com/ylangqing/ics/calendar/CQFCalendar.ics
 ```
 CQF中文课程日历：
 ```
-https://raw.githubusercontent.com/ylangqing/ics/main/CQFCalendar_Chinese.ics
+https://raw.githubusercontent.com/ylangqing/ics/calendar/CQFCalendar_Chinese.ics
 ```
