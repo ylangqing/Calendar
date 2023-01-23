@@ -15,5 +15,5 @@ https://raw.githubusercontent.com/ylangqing/Calendar/ics/CQFCalendar.ics
 ```
 CQF中文课程日历：
 ```
-https://raw.githubusercontent.com/ylangqing/ics/calendar/CQFCalendar_Chinese.ics
+https://raw.githubusercontent.com/ylangqing/Calendar/ics/CQFCalendar_Chinese.ics
 ```
