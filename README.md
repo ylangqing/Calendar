@@ -10,4 +10,4 @@ Calendar
 2. 使用订阅URL
 复制以下URL，然后添加到相应的日历APP中。
 CQF英文课程日历：https://raw.githubusercontent.com/ylangqing/ics/main/CQFCalendar.ics
-CQF中文课程日历：https://raw.githubusercontent.com/ylangqing/ics/main/CQFCalendar中文课.ics
+CQF中文课程日历：[https://raw.githubusercontent.com/ylangqing/ics/main/CQFCalendar中文课.ics](https://raw.githubusercontent.com/ylangqing/ics/main/CQFCalendar%E4%B8%AD%E6%96%87%E8%AF%BE.ics)
